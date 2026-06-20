@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0645-set-mismatch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
 | ------- |
@@ -64,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0073-set-matrix-zeroes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
