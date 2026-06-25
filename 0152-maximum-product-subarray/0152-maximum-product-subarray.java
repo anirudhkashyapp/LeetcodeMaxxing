@@ -1,24 +1,23 @@
 class Solution {
     public int maxProduct(int[] nums) {
-       int maxProd = nums[0];
+        int n = nums.length;
+        int prefix = 1;
+        int suffix = 1;
+        int ans = Integer.MIN_VALUE;
 
-        // Outer loop picks the starting index
-        for (int i = 0; i < nums.length; i++) {
-            // Initialize current product to 1
-            int prod = 1;
-
-            // Inner loop picks the ending index
-            for (int j = i; j < nums.length; j++) {
-                // Multiply current number to product
-                prod *= nums[j];
-
-                // Update maximum product if needed
-                maxProd = Math.max(maxProd, prod);
+        for(int i = 0 ; i<n; i++){
+            if(prefix==0){
+                prefix = 1;
             }
-        }
+            if(suffix==0){
+                suffix = 1;
+            }
+            prefix *= nums[i];
 
-        // Return the result
-        return maxProd;
+            suffix*= nums[n-i-1]; 
+
+            ans=Math.max(ans,Math.max(prefix,suffix));
+        }
+        return ans;
     }
 }
-  
