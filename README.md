@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0283-move-zeroes) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0485-max-consecutive-ones](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0493-reverse-pairs) |
 | [0645-set-mismatch](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0645-set-mismatch) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0169-majority-element) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
@@ -76,21 +78,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
