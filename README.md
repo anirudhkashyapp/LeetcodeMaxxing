@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/anirudhkashyapp/LeetcodeMaxxing/tree/master/0152-maximum-product-subarray) |
 ## Simulation
 |  |
 | ------- |
